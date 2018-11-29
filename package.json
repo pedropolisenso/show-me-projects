@@ -5,8 +5,13 @@
   "dependencies": {
     "@types/jest": "23.3.9",
     "@types/node": "10.12.10",
+    "@types/ramda": "^0.25.42",
     "@types/react": "16.7.7",
     "@types/react-dom": "16.0.11",
+    "axios": "^0.18.0",
+    "node-sass": "^4.9.3",
+    "prop-types": "^15.6.2",
+    "ramda": "^0.25.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1",
@@ -26,5 +31,13 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/enzyme": "^3.1.15",
+    "@types/enzyme-adapter-react-16": "^1.0.3",
+    "chai": "^4.2.0",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0"
+  }
 }
