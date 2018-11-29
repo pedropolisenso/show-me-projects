@@ -29,7 +29,9 @@ For run this project in your computer, is very important you have [Node JS](http
 
 ## Notice
 
-The github API has a limit of request, so for solve this problem, you can put in `src/configs/interception.ts` your *access_token* in `params: { }` and then you will can access normaly the API without limit
+The github API has a limit of request, so for solve this problem, you can put in `src/configs/interception.ts` your *access_token* in `params: { }` and then you will can access normaly the API without limit.
+
+> Do you need help for create your *access_token* ? [read here](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)
 
 ### Mantainer
 [Pedro Polisenso](https://github.com/pedropolisenso) Software Engineer
